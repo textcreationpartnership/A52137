@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New advice to a painter, &amp;c.</title>
+            <title>New advice to a painter</title>
+            <author>Marvell, Andrew, 1621-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52137</idno>
+            <idno type="STC">Wing M875A</idno>
+            <idno type="STC">ESTC R1495</idno>
+            <idno type="EEBO-CITATION">12771629</idno>
+            <idno type="OCLC">ocm 12771629</idno>
+            <idno type="VID">93674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93674)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 361:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New advice to a painter, &amp;c.</title>
+                  <title>New advice to a painter</title>
+                  <author>Marvell, Andrew, 1621-1678.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Satire, in verse, on Catholics.</note>
+                  <note>Caption title.</note>
+                  <note>Attributed to Andrew Marvell. Cf. Margoliouth, H.M. Poems &amp; letters of Andrew Marvell, 1952, I, 289.</note>
+                  <note>Place and date of publication from NUC pre-1956 imprints.</note>
+                  <note>A number of contemporary works had similar titles; these works and their authorship are widely confused.</note>
+                  <note>Also published as: Further instructions to a painter.</note>
+                  <note>Presumably written in 1671 but not published until the period of the Popish Plot.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:93674:1"/>
+            <pb n="1" facs="tcp:93674:1" rendition="simple:additions"/>
+            <head>NEW ADVICE TO A PAINTER, &amp;c.</head>
+            <lg>
+               <l>PAinter, once more thy Pencil reaſſume.</l>
+               <l>Draw me a Night Piece—Draw me <hi>Rome.</hi>
+               </l>
+               <l>
+                  <hi>Rome</hi> under ground, 'twill make a curious Piece!</l>
+               <l>Out do the boldeſt hands of Antient <hi>Greece.</hi>
+               </l>
+               <l>Let the pale Tapers, which afford it lights,</l>
+               <l>Burn blew, affrighted with approaching Sprites.</l>
+               <l>Draw me the ſhaking Triple Mitred Head,</l>
+               <l>And all the Conclave, looking like the Dead.</l>
+               <l>Draw fallen <hi>Lucifer</hi> in Brimſtone Robes,</l>
+               <l>Infernal Poſts arriving thick like <hi>Jobes:</hi>
+               </l>
+               <l>Each telling after other rueful Tale,</l>
+               <l>How all the Pious Stratagems ſtill fail;</l>
+               <l>Nor Piſtol, Poiſon, Ponyard will prevail.</l>
+               <l>How in defence of See Apoſtolique,</l>
+               <l>Like all true Bigots <hi>Roman</hi> Catholique,</l>
+               <l>Moſt boldly living, their late Martyrs ty'd,</l>
+               <l>And all without Confeſſing, bravely dy'd.</l>
+               <l>How daring <hi>Coleman</hi> led the Forlorn Hope,</l>
+               <l>Of all th' Unfortunate Brethren of the Rope,</l>
+               <l>Who murther Princes to exalt a Pope.</l>
+               <l>Of this new Order of <hi>Cordeliers</hi> how</l>
+               <l>He was the Founder and Confounder too.</l>
+               <l>How Cardinal <hi>Ireland, Hartcourt, Gaven</hi> fell,</l>
+               <l>Of <hi>Pickering, Grove,</hi> and <hi>Turner,</hi> let them tell,</l>
+               <l>How all's undone, <hi>Rome,</hi> Purgatory, Hell!</l>
+               <l>So! Painter 'tis enough; now lets retire,</l>
+               <l>And leave the Pope in this new Malvidere.</l>
+            </lg>
+            <lg>
+               <l>Next, let me ſee a ſpatious Curtain Drawn,</l>
+               <l>Fine and tranſparent as the Cobweb Lawn.</l>
+               <l>It muſt with curious Art and Care be wrought,</l>
+               <l>That through it one may ſee a nimble thought.</l>
+               <l>The ground with Faction, Treaſon, Tumult lay,</l>
+               <l>All Varniſh't o're with ſhining Preach and Pray.</l>
+               <l>Shade it with Fineneſs, Artifice, Intrigue,</l>
+               <l>Darken the foldings with the Solemn League.</l>
+               <pb n="2" facs="tcp:93674:2"/>
+               <l>Behind this Curtain let bold Actors ſtand,</l>
+               <l>Buskin'd for Tragedy upon command;</l>
+               <l>Inſpir'd with furious, not Poetique Rage,</l>
+               <l>A ſecond time to tread a bloody Stage.</l>
+               <l>Draw there an Aged Pope upon all four,</l>
+               <l>With riding Furniture Equipped o're,</l>
+               <l>With Warlike Saddle, and with Curbing Bitt,</l>
+               <l>Holſters and Howſings, Breaſtplate, all compleat.</l>
+               <l>Then let a dapper Pres'ter Poll beſtride</l>
+               <l>The Scarlet Rampant Beaſt, and fiercely ride.</l>
+               <l>Let him be clad in the new Silken Buff,</l>
+               <l>And wear an old Round-head without a Ruff.</l>
+               <l>Upon the top of his Triumphat Lance,</l>
+               <l>The ſpoiled Whore of Babel's Smock advance.</l>
+               <l>Before him let there march Lewd Reformation,</l>
+               <l>Proclaiming Liberty and Tolleration.</l>
+               <l>Paint diſmal Ruin ſtalking in the Rear,</l>
+               <l>Than Landskip Deſolation far and near.</l>
+               <l>Paint cloſe Cabals, and Midnights ſecret Clubs,</l>
+               <l>Paint the Diſciples of the bawling Tubs,</l>
+               <l>With Ears erected and with Mouths diſplaid,</l>
+               <l>And all the Brethren o'th Religious Blade,</l>
+               <l>Big with their hopes and expectations blown,</l>
+               <l>That e're't be long the day will be their own.</l>
+               <l>Let ſeveral Labels from their mouths proceed,</l>
+               <l>To note the different Tribes o'th' Holy Seed:</l>
+               <l>Here, Root and Branch, there, down with Babel down.</l>
+               <l>Away with biſhops, this, that, with the Crown.</l>
+               <l>Here draw one cloſeſly laughing in his ſleeve,</l>
+               <l>That he has made the zealous fools believe,</l>
+               <l>What he has told them is as Goſpel true,</l>
+               <l>If't be not ſo, then he's a very <hi>Jew.</hi>
+               </l>
+               <l>Paint here Ambition making humble Court</l>
+               <l>To Popular Ears, and ſhewing Scripture for't.</l>
+               <l>There, Draw me Envy, and here, private Pique,</l>
+               <l>Looking demure while deep Revenge they ſeek.</l>
+               <l>Here one who loſt his Crown and Biſhops Lands,</l>
+               <l>Clapping for joy his Sacrilegious hands.</l>
+               <l>Draw buſie Jealouſie among the Croud,</l>
+               <l>And whiſpering Fear, and Calumny ſtill loud.</l>
+               <l>Paint Armed Zeal in fighting Goſpel Buff;</l>
+               <l>Paint what thou wilt, ſo't be confus'd enuff.</l>
+               <l>Then Painter Draw one laughing out this Mott,</l>
+               <l>Come do it boldly then, Plot upon Plot.</l>
+               <l>Now Painter let us Trade in open day,</l>
+               <l>And bare fac't Light: a barren Landskip lay,</l>
+               <l>Like ſome cold Northern Clime; there muſt not be</l>
+               <l>Much Beauty in it, much Variety:</l>
+               <l>Not many fruitful Vales, nor pleaſant Springs,</l>
+               <l>Nor murmu'ring Riv'lets, nor delightful things.</l>
+               <l>But cragged Rocks, and the bald Mountains ſhew,</l>
+               <l>No Perrewigs of Wood, but Bonnets blew</l>
+               <pb n="3" facs="tcp:93674:2" rendition="simple:additions"/>
+               <l>Of diſtant Sky, Paint Loughs, and Treacherous Bogs,</l>
+               <l>Stored with Revelation croaking Frogs.</l>
+               <l>And now the Scene is fit, the Curtain draw,</l>
+               <l>Trumpets and Drums within, Saſa, Saſa.</l>
+               <l>A Rev'rend Prelate muſt the Prologue be,</l>
+               <l>Enough alone to make a Tragedy.</l>
+               <l>Paint him all over wounds and purple gore,</l>
+               <l>Greater than <hi>Caeſars</hi> and in number more.</l>
+               <l>Than let the mad braind Zealous Troops advance,</l>
+               <l>Haſting to forfeit their Allegiance,</l>
+               <l>In the defence of Covenant; Well a way!</l>
+               <l>True Proteſtant Religion to betray.</l>
+               <l>While thus with Violence, Murder, Perjury,</l>
+               <l>They ſtrive to raiſe their new Fifth Monarchy,</l>
+               <l>The Iron Scepter of Presbytery.</l>
+               <l>Now Painter Summon all thy skilful Art,</l>
+               <l>Thy choiceſt Colours, cleaneſt ſtroaks impart.</l>
+               <l>Draw me a blooming Hero, let him fly,</l>
+               <l>more ſwift than Light'ning from a ſullen Sky:</l>
+               <l>Whoſe early Valour Rivals <hi>Caeſars</hi> Fame,</l>
+               <l>For he too came, and ſaw, and overcame.</l>
+               <l>Paint Woods of Lawrels for his Conqu'ring brow,</l>
+               <l>Hee'l reap them all as faſt as they can grow.</l>
+               <l>But gentle Painter, plant them in the ſhade,</l>
+               <l>Leſt as they quickly grew, they quickly fade.</l>
+               <l>And now dear Painter, how ſhall we deviſe,</l>
+               <l>To draw ſome thoughts? Oh! how would that ſurprize!</l>
+               <l>But ſince thoſe ſwift Ideas will not ſit,</l>
+               <l>Till thou canſt finiſh 'em, e'en venture it,</l>
+               <l>A careleſs daſh does ſomtimes bravely hit.</l>
+               <l>Draw then the diſcontented Factious crew</l>
+               <l>Of Diſaffected Brethren; let us view</l>
+               <l>Their Faces well, and we ſhall eaſily find,</l>
+               <l>Their ſecret thoughts by th' Index of the mind.</l>
+               <l>Draw biting Lips, and ſullen frowning Brow,</l>
+               <l>And hands lift up betwixt a Curſe and Vow:</l>
+               <l>Paint this half drawing out his angry Sword,</l>
+               <l>That weeping for the people of the Lord,</l>
+               <l>Who for the Goſpel were in Battle ſlain,</l>
+               <l>Or by the Common En'my Captive tane.</l>
+               <l>Let haſty blood mount in that manly Face,</l>
+               <l>There let it ſneak, and give pale Choler place</l>
+               <l>Here Paint one raving, raging, ſtaring mad;</l>
+               <l>Thus diſappointed after ſeeking Gad!</l>
+               <l>Thus by ill Conduct, and baſe Cowardice,</l>
+               <l>To ſpoil the <hi>Good Old Cauſe,</hi> and ope' the Eyes</l>
+               <l>Of Wicked men, to ſee and Triumph too;</l>
+               <l>What haſt thou done Lard? Lard! What muſt we do?</l>
+               <l>Could not th' impatient Brethren ſtay till we</l>
+               <l>Had fully hatcht a New Conſpiracy,</l>
+               <l>No King, or elſe of Clouts, till we had made,</l>
+               <l>(That is a Glorious King) they might have ſtaid:</l>
+               <pb n="4" facs="tcp:93674:3" rendition="simple:additions"/>
+               <l>But thus with Shell on head, and callow wing,</l>
+               <l>Thus run away! Lard! This was ſuch a thing!</l>
+               <l>Now ſhould we ſtrive to lend our helping hand</l>
+               <l>To work Salvation, th' wicked of the Land</l>
+               <l>Will call't Rebellion: and ſhould they prevail,</l>
+               <l>We can expect no Mercy, if we fail</l>
+               <l>In our attempt, no ſecond Amneſty</l>
+               <l>Can e're be hop'd, Ah! No Indempnity!</l>
+               <l>Painter, cloſe up thy Piece, expoſe't to view;</l>
+               <l>'Twill meet with various Cenſures: But 'tis true.</l>
+               <l>Till the next time we meet, Painter Adieu.</l>
+            </lg>
+         </div>
+         <div type="dedication">
+            <head>To the KING.</head>
+            <l>HAil Mighty <hi>Charles!</hi> Joy of our Lives and Eyes:</l>
+            <l>Born and preſerv'd, reſtor'd in wondrous wiſe!</l>
+            <l>At laſt take pity of a Glorious State,</l>
+            <l>Shook by the Malice, and the reſtleſs Hate,</l>
+            <l>Of Undermining Foes, and Treacherous Friends,</l>
+            <l>By diff'ring methods driving the ſame ends.</l>
+            <l>Papiſt and Presbyterian both combine,</l>
+            <l>And <hi>Sampſons</hi> flaming Foxes Tails conjoyn</l>
+            <l>To Rob thee of thy Crown, and to deſtroy,</l>
+            <l>With thee our Lives, Religion, Liberty.</l>
+            <l>
+               <hi>Rome</hi> and <hi>Geneva,</hi> both ſtrive to pull down</l>
+            <l>The Envi'd Mitre and Imperial Crown.</l>
+            <l>The Royal Martyr <hi>Charles,</hi> the Wiſe, the Juſt,</l>
+            <l>Commands you to forgive, but never truſt.</l>
+            <l>Loſe not your Friends in hopes your Foes to gain,</l>
+            <l>Eternal hates are reconcil'd in vain.</l>
+            <l>You are no longer ſafe than they want power,</l>
+            <l>No Monarch after that can Reign an hour.</l>
+            <l>Cheriſh you Friends if Scepters you will ſway,</l>
+            <l>And Rule your Subjects many a happy day.</l>
+            <l>Defend that Faith which does defend your Crown,</l>
+            <l>Which Chriſt firſt taught, which all true Chriſtians own:</l>
+            <l>Who teaches any other, comes from Hell;</l>
+            <l>The Dev'l firſt did, then taught men to Rebel.</l>
+            <l>Read all the reſt in the late Rebel <hi>Scot,</hi>
+            </l>
+            <l>There is enough to ſhew a ſecond Plot.</l>
+            <l>The Banks are yet intire, 'tis not too late</l>
+            <l>To ſtop another Deluge o're the State.</l>
+            <l>Who his to morrow truſts for ſafety, may,</l>
+            <l>Before it comes be ruined by delay.</l>
+            <l>To ſpeak bold truths Poets and Painters dare,</l>
+            <l>Believe them, Mighty Sir, Believe, Beware!</l>
+            <l>Nothing can ſave us from a dreadful Doom,</l>
+            <l>But what ſecures from Faction and from <hi>Rome.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93674:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
